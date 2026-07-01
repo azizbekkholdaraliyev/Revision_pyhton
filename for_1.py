@@ -12,7 +12,7 @@
 #salom Olim
 #kod 5 marta takrorlandi
 
-ismlar = ['Ali','Vali','Hasan','Husan','Olim']
+ismlar = ['Ali', 'Vali', 'Hasan', 'Husan', 'Olim']
 for ism in ismlar:
-    print(f"Assalom alaykum, {ism}. Sahifamizga xush kelibsiz!")
-print(f"Kod {len(ismlar)} marta takrorlandi")
+    print(f"salom {ism}")
+print(f"kod {len(ismlar)} marta takrorlandi")
