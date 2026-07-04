@@ -4,4 +4,4 @@ def ism_yil(ism, yosh):
     unga tugilgan yilini ismi bilan murojat qilib aytuvchi dastur"""
     print(f"salom {ism.title()}, siz {2026-yosh}-yida tugildansiz")
 
-ism_yil('anvar', 17)
+ism_yil(ism=input("ismingiz nima: "), yosh=int(input("yoshing nechida: ")))
